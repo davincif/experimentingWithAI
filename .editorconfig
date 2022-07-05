@@ -1,0 +1,11 @@
+# Editor configuration, see https://editorconfig.org
+root = true
+
+[*.md]
+max_line_length = off
+trim_trailing_whitespace = false
+
+
+[*.py]
+indent_style = space
+indent_size = 4

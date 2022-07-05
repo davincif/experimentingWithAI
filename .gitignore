@@ -1,0 +1,6 @@
+# python
+.virenv/
+*.pyc
+
+# general
+trash/
